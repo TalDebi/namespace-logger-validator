@@ -6,5 +6,5 @@ domain: dana.io
 layout:
 - go.kubebuilder.io/v4
 projectName: namespace-logger-validator
-repo: github.com/your-username/namespace-logger-validator
+repo: github.com/TalDebi/namespace-logger-validator
 version: "3"
